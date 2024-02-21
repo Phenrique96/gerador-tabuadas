@@ -12,7 +12,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - Em breve estará no ar...
 
-<hr>
 
+ # 💻 Desenvolvimento
 
 Desenvolvido por [Phenrique96](https://github.com/Phenrique96) 🚀
