@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Marhey:wght@500&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+body {
+    overflow: hidden;
+    height: 100vh;
+    background: linear-gradient(0deg, rgba(18,187,178,1) 6%, rgba(0,0,0,1) 100%);
+    cursor: pointer;
+
+}
+
+
+.cabecalho {
+    margin: auto;
+    border-radius: 24px;
+    width: 20em;
+    font-family: "Luckiest Guy", cursive;
+    font-size: 2.5em;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    color: white;
+    padding: 0.5em;
+
+}
+
+.campo {
+    display: flex;
+    justify-content: center;
+    gap: 30px; 
+    padding: 30px;
+    align-items: center;
+
+}
+
+.campo-tabuada {
+    width: 250px;
+    height: 55px;
+    font-family: "Marhey", sans-serif;
+    color: #526D82;
+    font-size: 1.3em;
+    text-align: center;
+    border-radius: 10px;
+    background:#ECE3CE;
+    border: 3px solid #00DFA2;
+
+}
+
+.campo-tabuada:focus {
+    outline: none;
+
+}
+
+.campo-tabuada::placeholder {
+    font-size: 0.9em;  
+
+}
+
+.btn-btn {
+    display: flex;
+    justify-content: center;
+    gap: 30px; 
+    padding: 30px;
+    align-items: center;
+
+}
+
+.btn-gerar {
+    width: 200px;
+    height: 55px;
+    background: #00DFA2;
+    border-radius: 10px;
+    color: #ffff;
+    border: none;
+    font-size: 1.1em;
+    font-family: helvetica;
+    cursor: pointer;
+
+}
+
+.btn-gerar:hover {
+    color: #ffff;
+    background: #9DB2BF;
+    border: none;
+
+}
+
+.btn-limpar {
+    width: 200px;
+    height: 55px;
+    border-radius: 9px;
+    background: #F15A59;
+    border: none;
+    color: #ffff;
+    font-family: helvetica;
+    font-size: 1.1em;
+    cursor: pointer;
+
+}
+
+.resultados-tabuada {
+    width: 450px;
+    height: 510px;
+    border-radius: 35px;
+    margin: auto;
+    align-items: center;
+    display: none;
+    justify-content: center;
+    background: #ECE3CE;
+    border: 3px solid #00DFA2;
+    color: white;
+
+
+}
+
+#resultados {
+    font-family: "Marhey", sans-serif;
+    font-weight: 500;
+    font-size: 1.7em;  
+    color: #526D82; 
+
+}
+
+
+
