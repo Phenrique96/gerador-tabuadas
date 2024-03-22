@@ -9,7 +9,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - JavaScript
 
 # Como rodar na minha máquina?
-- Clone o projeto 
+- Clone o projeto `git clone https://github.com/Phenrique96/gerador-tabuadas.git`
 
 ## 🌍 Acesse o projeto
 
