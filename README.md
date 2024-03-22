@@ -8,6 +8,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - CSS
 - JavaScript
 
+# Como rodar na minha máquina?
+- Clone o projeto 
+
 ## 🌍 Acesse o projeto
 
 - https://phenrique96.github.io/gerador-tabuadas/
