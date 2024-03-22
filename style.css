@@ -9,7 +9,7 @@
 }
 
 body {
-    overflow: hidden;
+    
     background: linear-gradient(0deg, rgba(18,187,178,1) 6%, rgba(0,0,0,1) 100%);
     cursor: pointer;
 
