@@ -10,7 +10,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🌍 Acesse o projeto
 
-- Em breve estará no ar...
+- https://phenrique96.github.io/gerador-tabuadas/
 
 
  # 💻 Desenvolvimento
